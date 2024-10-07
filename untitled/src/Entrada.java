@@ -5,7 +5,7 @@ public class Entrada {
     // mod_acc mod_adinal mod_ret nombrre (argumentos) { cuerpo }
 
         public static void main (String[] args){
-
+            miMetodo();
             System.out.println("Proyecto de variables");
 
             // Tipos nombre = valor (el valor es opicional)
